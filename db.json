@@ -1,0 +1,25 @@
+{
+"products":
+[
+{"id":1,"name":"Swamp deer","category":"Crimson"},
+{"id":2,"name":"Red-necked wallaby","category":"Turquoise"},
+{"id":3,"name":"Brown and yellow marshbird","category":"Red"},
+{"id":4,"name":"Goose, egyptian","category":"Purple"},
+{"id":5,"name":"Long-necked turtle","category":"Red"},
+{"id":6,"name":"Hedgehog, south african","category":"Pink"},
+{"id":7,"name":"Savannah deer","category":"Yellow"},
+{"id":8,"name":"Common zorro","category":"Green"},
+{"id":9,"name":"Prehensile-tailed porcupine","category":"Orange"},
+{"id":10,"name":"Tortoise, asian foreset","category":"Teal"},
+{"id":11,"name":"Starling, red-shouldered glossy","category":"Orange"},
+{"id":12,"name":"European badger","category":"Purple"},
+{"id":13,"name":"Bat-eared fox","category":"Indigo"},
+{"id":14,"name":"Pine snake (unidentified)","category":"Purple"},
+{"id":15,"name":"Southern hairy-nosed wombat","category":"Purple"},
+{"id":16,"name":"American alligator","category":"Fuscia"},
+{"id":17,"name":"Egret, snowy","category":"Goldenrod"},
+{"id":18,"name":"Sally lightfoot crab","category":"Khaki"},
+{"id":19,"name":"Python, carpet","category":"Teal"},
+{"id":20,"name":"Porcupine, prehensile-tailed","category":"Goldenrod"}
+]
+}
